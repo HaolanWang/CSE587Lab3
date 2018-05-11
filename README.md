@@ -49,3 +49,4 @@ They we randomly chooses a set of data which contains 50 test files to be applie
 
 #### ![p8](https://github.com/HaolanWang/CSE587Lab3/blob/master/Picture9.png)
 
+And we could notice that although that the accuracy are not compatiable with the result in 2.3, the accuracy are still at a quite high level.
