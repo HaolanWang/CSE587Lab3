@@ -10,7 +10,7 @@ In this part we apply the python code onto the Titanic datasets to do prediction
 
 ### ![p1](https://github.com/HaolanWang/CSE587Lab3/blob/master/Picture10.png)
 
-As we could seen on the result, both Logistic Regression and Naive Bayesian generate a predict survive rate of almost 80%.
+As we could seen on the result, both Logistic Regression and Naive Bayesian generate a prediction accuracy of almost 80%.
 
 ## Part2.
 ### 2.1 Collect and clean data
