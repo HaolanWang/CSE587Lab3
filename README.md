@@ -1,10 +1,14 @@
 # CSE587Lab3 Report
-## Author: Haolan Wang
-## UBIT: 50248614
+## haolanwa
+## cliang33
 
 ## Part1. Understand Apache Spark with Titanic data analysis.
 
-###
+### Survive rate predicting
+
+In this part we apply the python code onto the Titanic datasets to do prediction.
+
+### ![p1](https://github.com/HaolanWang/CSE587Lab3/blob/master/Picture1.jpg)
 
 ## Part2.
 ### 2.1 Collect and clean data
